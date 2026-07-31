@@ -9,7 +9,7 @@
 推荐使用 `uv`，这样可以直接复用仓库内的 `uv.lock`，减少依赖版本差异。
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Vincent-chk/Minimax_video-picture_gen.git
 cd minimax_video_gen
 uv sync
 uv run minimax-local-generator
