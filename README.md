@@ -117,16 +117,6 @@ Linux 用户如果在无桌面环境的服务器上运行，可能需要先配�
 
 默认在项目目录下的 `outputs/` 中，并按图片、音乐等类型保存。你也可以在 GUI 中直接打开输出目录。
 
-## 发布到 GitHub 前
-
-建议确认以下文件不会被提交：
-
-- `.venv/`
-- `.env` 或其他本地密钥文件
-- `outputs/`
-- `__pycache__/`
-- `.DS_Store`
-
 ## 注意
 
 - Base URL 固定为 `https://api.minimaxi.com/v1`。
