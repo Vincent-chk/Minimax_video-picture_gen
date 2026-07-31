@@ -3,6 +3,7 @@
 这是一个基于 PyQt6 的本地桌面 GUI，用来调用 MiniMax 的视频、图片、音乐和语音生成 API。
 
 在 [MiniMax 开放平台](https://platform.minimaxi.com) 购买 Token Plan 套餐后，即可使用本工作台进行可视化的图片生成与视频生成。无需编写代码，通过图形界面即可完成从 prompt 编写到素材预览的完整创作流程。
+注意：只适用token plan的API（中档次及以上才有视频生成额度）或者minimax的普通API，如果用的是media plan就直接用minimax hub即可。
 
 ## 快速开始
 
